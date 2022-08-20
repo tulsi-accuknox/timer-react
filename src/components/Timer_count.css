@@ -55,13 +55,13 @@ html,body{
 
 button{
     margin: 20px;
-    width: 7vw;
-    height: 5vh;
+    width: 4vw;
+    height: 6vh;
     border: none;
     outline: none;
     border-radius: 10px;
     background-color: transparent;
-    font-size: 23px;
+    font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
     color: rgb(34, 34, 34);
